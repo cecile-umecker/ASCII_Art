@@ -2,3 +2,8 @@
 
 <p>Clone this repo and run every script with :</p>
 <code>php name_of_script.php</code>
+
+<p>For instance, to run pony.php :</p>
+<code>php pony.php</code>
+
+<p>Have fun !</p>
